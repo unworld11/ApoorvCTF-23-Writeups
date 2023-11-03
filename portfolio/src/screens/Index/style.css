@@ -1,0 +1,110 @@
+.index {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .index .div {
+    background-color: #ffffff;
+    height: 832px;
+    overflow: hidden;
+    position: relative;
+    width: 1280px;
+  }
+  
+  .index .flexcontainer {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 37px;
+    height: 102px;
+    left: 15px;
+    position: absolute;
+    top: 27px;
+    width: 220px;
+  }
+  
+  .index .text {
+    align-self: stretch;
+    color: #000000;
+    font-family: "Fraunces", Helvetica;
+    font-size: 32px;
+    font-weight: 600;
+    letter-spacing: -2.4px;
+    line-height: 32px;
+    position: relative;
+  }
+  
+  .index .text-wrapper {
+    color: #000000;
+    font-family: "Fraunces", Helvetica;
+    font-size: 32px;
+    font-weight: 600;
+    letter-spacing: -2.4px;
+    line-height: 32px;
+  }
+  
+  .index .rectangle {
+    background-color: #000000;
+    border-radius: 29px;
+    height: 456px;
+    left: 605px;
+    position: absolute;
+    top: 408px;
+    width: 514px;
+  }
+  
+  .index .flexcontainer-2 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 37px;
+    height: 133px;
+    left: 21px;
+    position: absolute;
+    top: 688px;
+    width: 256px;
+  }
+  
+  .index .span-wrapper {
+    align-self: stretch;
+    color: #000000;
+    font-family: "Fraunces", Helvetica;
+    font-size: 68px;
+    font-weight: 700;
+    letter-spacing: -1.36px;
+    line-height: 38.1px;
+    position: relative;
+  }
+  
+  .index .span {
+    color: #000000;
+    font-family: "Fraunces", Helvetica;
+    font-size: 68px;
+    font-weight: 700;
+    letter-spacing: -1.36px;
+    line-height: 38.1px;
+  }
+  
+  .index .rectangle-2 {
+    background-color: #000000;
+    border-radius: 29px;
+    height: 151px;
+    left: 1119px;
+    position: absolute;
+    top: 27px;
+    width: 181px;
+  }
+  
+  .index .rectangle-3 {
+    background-color: #000000;
+    border-radius: 29px;
+    height: 151px;
+    left: -71px;
+    position: absolute;
+    top: 301px;
+    width: 306px;
+  }
+  

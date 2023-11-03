@@ -1,0 +1,111 @@
+.index {
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  display: flex;
+}
+
+.index .div {
+  background-color: #fff;
+  width: 1280px;
+  height: 832px;
+  position: relative;
+  overflow: hidden;
+}
+
+.index .flexcontainer {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 37px;
+  width: 220px;
+  height: 102px;
+  display: flex;
+  position: absolute;
+  top: 27px;
+  left: 15px;
+}
+
+.index .text {
+  color: #000;
+  letter-spacing: -2.4px;
+  align-self: stretch;
+  font-family: Fraunces, Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 32px;
+  position: relative;
+}
+
+.index .text-wrapper {
+  color: #000;
+  letter-spacing: -2.4px;
+  font-family: Fraunces, Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 32px;
+}
+
+.index .rectangle {
+  background-color: #000;
+  border-radius: 29px;
+  width: 514px;
+  height: 456px;
+  position: absolute;
+  top: 408px;
+  left: 605px;
+}
+
+.index .flexcontainer-2 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 37px;
+  width: 256px;
+  height: 133px;
+  display: flex;
+  position: absolute;
+  top: 688px;
+  left: 21px;
+}
+
+.index .span-wrapper {
+  color: #000;
+  letter-spacing: -1.36px;
+  align-self: stretch;
+  font-family: Fraunces, Helvetica;
+  font-size: 68px;
+  font-weight: 700;
+  line-height: 38.1px;
+  position: relative;
+}
+
+.index .span {
+  color: #000;
+  letter-spacing: -1.36px;
+  font-family: Fraunces, Helvetica;
+  font-size: 68px;
+  font-weight: 700;
+  line-height: 38.1px;
+}
+
+.index .rectangle-2 {
+  background-color: #000;
+  border-radius: 29px;
+  width: 181px;
+  height: 151px;
+  position: absolute;
+  top: 27px;
+  left: 1119px;
+}
+
+.index .rectangle-3 {
+  background-color: #000;
+  border-radius: 29px;
+  width: 306px;
+  height: 151px;
+  position: absolute;
+  top: 301px;
+  left: -71px;
+}
+
+/*# sourceMappingURL=index.c0fc777d.css.map */
